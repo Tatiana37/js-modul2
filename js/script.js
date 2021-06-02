@@ -140,7 +140,7 @@
 // ]);
 
 
-//  11)
+//  10)
 
 // function splitMessage(message, delimeter) {
 //   let words;
@@ -153,7 +153,7 @@
 // console.log(splitMessage("Mango", ""));
 // console.log(splitMessage("best_for_week", "_"));
 
-//  12)
+//  11)
 
 // function calculateEngravingPrice(message, pricePerWord) {
 //    // Change code below this line
